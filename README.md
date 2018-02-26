@@ -1,3 +1,12 @@
-# intern_gtfs_rt
+Project Title
+part of the gtfs realtime project, this project can only be applied on specific JSON input from certain API
 
-part of the real time gtfs project for public transportation
+Prerequisites
+python 2.7
+protocol buffer 
+google transit realtime gtfs 
+
+Authors
+Ehab Ebeid 
+Huixin Rao
+
